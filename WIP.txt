@@ -1,6 +1,8 @@
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=10997712-2756-4c60-8d3d-e7afa5d7c475&autoAuth=true&ctid=a3062f44-9e8a-4239-a88c-8cc3036cdb47&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiMjBiOGJmYzktNGI1NS00NjNiLTkyZTAtNmQ1YmFhNDA5YmZjIiwidCI6ImEzMDYyZjQ0LTllOGEtNDIzOS1hODhjLThjYzMwMzZjZGI0NyIsImMiOjZ9
 
-https://app.powerbi.com/reportEmbed?reportId=10997712-2756-4c60-8d3d-e7afa5d7c475&autoAuth=true&ctid=a3062f44-9e8a-4239-a88c-8cc3036cdb47&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMjBiOGJmYzktNGI1NS00NjNiLTkyZTAtNmQ1YmFhNDA5YmZjIiwidCI6ImEzMDYyZjQ0LTllOGEtNDIzOS1hODhjLThjYzMwMzZjZGI0NyIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+
+https://www.linkedin.com/pulse/power-bi-coronavirus-report-template-seth-sanusi
 
 
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
@@ -47,3 +49,23 @@ Total Recovered = CALCULATE(SUM(COVID19[Value])| COVID19[StatusData]="recovered"
 
 
 Countries Selected = CALCULATE(CONCATENATEX(VALUES(COVID19[Country/Region])|COVID19[Country/Region]|","))
+
+
+Data: 
+John Hopkins University:
+https://github.com/CSSEGISandData/COVID-19
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+Terms of Use:
+This GitHub repo and its contents herein, including all data, mapping, and analysis, copyright 2020 Johns Hopkins University, all rights reserved, is provided to the public strictly for educational and academic research purposes. The Website relies upon publicly available data from multiple sources, that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability. Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+
+Power BI Ingestion Credit / Acknowledgement / Gratitude to:
+Danelly Ramos = AnalyzeWithPower: 
+https://www.youtube.com/watch?v=qWHIJikCw-8 
+
+News links Courtesy of Bing.com
+
+
+
+LASTDATE(COVID19[Date]))
+
+Current Total = CALCULATE(SUM(COVID19[Value])|LASTDATE(COVID19[Date]))
