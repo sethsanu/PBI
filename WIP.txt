@@ -1,7 +1,4 @@
-https://app.powerbi.com/view?r=eyJrIjoiMjBiOGJmYzktNGI1NS00NjNiLTkyZTAtNmQ1YmFhNDA5YmZjIiwidCI6ImEzMDYyZjQ0LTllOGEtNDIzOS1hODhjLThjYzMwMzZjZGI0NyIsImMiOjZ9
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMjBiOGJmYzktNGI1NS00NjNiLTkyZTAtNmQ1YmFhNDA5YmZjIiwidCI6ImEzMDYyZjQ0LTllOGEtNDIzOS1hODhjLThjYzMwMzZjZGI0NyIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
-
+https://app.powerbi.com/view?r=eyJrIjoiODQzMWIwM2ItMTQzMS00NTc2LWIyZWUtOThhM2YxNDIwMTliIiwidCI6ImEzMDYyZjQ0LTllOGEtNDIzOS1hODhjLThjYzMwMzZjZGI0NyIsImMiOjZ9&fbclid=IwAR2lYtQ9_U6LqijlyX2_z_blYMaz3XqPPYCarIGnSu6BhGfoGRTBFT6kwj0
 https://www.linkedin.com/pulse/power-bi-coronavirus-report-template-seth-sanusi
 
 
