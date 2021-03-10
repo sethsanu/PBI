@@ -1,0 +1,23 @@
+http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&q=facebook
+
+
+http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&site:docs.microsoft.com&q=K-Means
+
+
+http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&as_sitesearch:"docs.microsoft.com"&q="Event Hubs"
+
+http://www.google.com/search?ie=UTF-8&oe=UTF-8&sourceid=navclient&gfns=1&URL:https://azure.microsoft.com/&q="Event Hubs"
+
+https://duckduckgo.com/?q=!ducky+azure event hubs
+
+https://duckduckgo.com/?q=!ducky+azure app configuration
+
+https://azure.microsoft.com/en-us/services/app-configuration/
+
+
+https://duckduckgo.com/?kz=1&q=Azure app configuration
+
+https://duckduckgo.com/search.html?site=https://azure.microsoft.com/&q=Azure app configuration
+
+
+https://duckduckgo.com/?q=!ducky+azure app configuration site https://azure.microsoft.com/en-us/services

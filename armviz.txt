@@ -1,0 +1,14 @@
+http://armviz.io/#/?load=https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/sap-2-tier-marketplace-image-md/azuredeploy.json
+
+
+http://armviz.io/#/?load=https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/sap-2-tier-marketplace-image-md/azuredeploy.json
+
+http://armviz.io/#/?load=https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-cosmosdb-gremlin/azuredeploy.json
+
+
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fAzure%2fazure-quickstart-templates%2fmaster%2f201-sql-database-transparent-encryption-create%2fazuredeploy.json
+
+https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/ X /azuredeploy.json
+
+
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fAzure%2fazure-quickstart-templates%2fmaster%2f201-sql-database-transparent-encryption-create%2fazuredeploy.json
